@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-autofill-code-language",
+  "name": "Autofill Code Language",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Sun",
+  "minAppVersion": "1.7.4",
+  "main": "main.js",
+  "isDesktopOnly": false
+}
+
